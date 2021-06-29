@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Arm HPC Resources
 
-You can use the [editor on GitHub](https://github.com/arm-hpc-user-group/arm-hpc-resources/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This page is meant to provide a central location for Arm high-performance computing resources and to point to other interesting projects and companies who are working in this space. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Please suggest updates by emailing us (info <at> ahug <dot> org) or ideally by submitting a PR to this repo. 
 
-### Markdown
+### Arm HPC Testbeds and Systems
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Eligibility for Arm-based testbeds may vary and depends on your current status (student, researcher, etc.) and country. 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Arm Tools
 
-1. Numbered
-2. List
+### Arm-enabled HPC Libraries
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/arm-hpc-user-group/arm-hpc-resources/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Organizations working on Arm HPC
